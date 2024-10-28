@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sneha Gaikwad</h1>
+<h1 align="center">Hi 👋! I'm Sneha Gaikwad</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
 - 🌱 I’m currently learning **Excel , SQL**
